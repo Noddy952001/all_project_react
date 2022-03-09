@@ -1,0 +1,54 @@
+{
+  "Groceries": [
+    {
+      "title": "patato",
+      "purchased": false,
+      "id": 1
+    },
+    {
+      "title": "onoion",
+      "purchased": false,
+      "id": 2
+    },
+    {
+      "title": "mango",
+      "purchased": false,
+      "id": 3
+    },
+    {
+      "title": "kajuu",
+      "purchased": false,
+      "id": 4
+    },
+    {
+      "title": "barfi",
+      "purchased": false,
+      "id": 5
+    },
+    {
+      "title": "misthi",
+      "purchased": false,
+      "id": 6
+    },
+    {
+      "title": "pizzza",
+      "purchased": false,
+      "id": 7
+    },
+    {
+      "title": "burger",
+      "purchased": false,
+      "id": 8
+    },
+    {
+      "title": "dosa",
+      "purchased": false,
+      "id": 9
+    },
+    {
+      "title": "dosa",
+      "purchased": false,
+      "id": 10
+    }
+  ]
+}
